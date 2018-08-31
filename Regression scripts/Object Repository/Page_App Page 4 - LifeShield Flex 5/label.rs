@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label</name>
+   <tag></tag>
+   <elementGuidId>acc6f8cd-adcc-4aba-ba5a-a2b3209f6516</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>consent-checkbox-0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-consent-review&quot;)/div[@class=&quot;js-error-container&quot;]/div[@class=&quot;terms-wrapper row&quot;]/div[@class=&quot;col-md-1 terms-cell&quot;]/div[@class=&quot;js-form-group&quot;]/div[@class=&quot;checkbox&quot;]/label[1]</value>
+   </webElementProperties>
+</WebElementEntity>
